@@ -7,11 +7,11 @@ The Menger Sponge Fractal, coded in P5JS
 
 I made two different versions of the Menger Sponge, both of them are interactive.
 
-## "MengerSponge" - Adding Iterations to the Menger Sponge
+### "MengerSponge" - Adding Iterations to the Menger Sponge
 
 The folder "MengerSponge" contains a version, where you can click the Menger Sponge with your mouse to add an iteration
 
-## "MengerSpongeCam" - Free-Flying camera and rotation-control
+### "MengerSpongeCam" - Free-Flying camera and rotation-control
 
 The folder "MengerSpongeCam" contains another version, using PEasyCam for P5JS.
 
