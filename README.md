@@ -18,3 +18,6 @@ The folder "MengerSpongeCam" contains another version, using PEasyCam for P5JS.
 This one is really cool: You can roitate the whole Fractal with your mouse, as well as zoom into it.
 
 Time to explore infinity!
+
+## More information
+I also wrote  [this blogpost](https://breaksome.tech/creating-a-fractal-tree-in-p5js/)  about this little project that explains things in depth.
