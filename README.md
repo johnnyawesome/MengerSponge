@@ -21,7 +21,7 @@ Time to explore infinity!
 
 ## More information
 
-I also wrote  [this blogpost](https://breaksome.tech/creating-a-fractal-tree-in-p5js/)  about this little project that explains things in depth.
+I also wrote  [this blogpost](https://breaksome.tech/coding-the-menger-sponge-in-p5js/)  about this little project that explains things in depth.
 
 ## Other, Closely related Fractals
 
