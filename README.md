@@ -21,7 +21,11 @@ Time to explore infinity!
 
 ## More information
 
-I also wrote  [this blogpost](https://breaksome.tech/coding-the-menger-sponge-in-p5js/)  about this little project that explains things in depth.
+To learn more about the Menger Sponge, check out [this blogpost](https://breaksome.tech/coding-the-menger-sponge-in-p5js/) where I described in great detail:
+
+- What the Menger Sponge is
+- How it works
+- How you can code it yourself
 
 ## Other, Closely related Fractals
 
