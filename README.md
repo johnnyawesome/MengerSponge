@@ -41,7 +41,7 @@ You can find out more about the Cantor Set [here](https://github.com/johnnyaweso
 
 If the Cantor Set is a one-dimensional Menger Sponge, what does a two-dimensional Menger Sponge look like?
 
-Turns out there is another famous Fractal called the Sierpinski Carpet, and it looks like this:
+Turns out there is another famous Fractal called the [Sierpinski Carpet](https://github.com/johnnyawesome/SierpinskiCarpet), and it looks like this:
 
 ![Sierpinski Carpet](https://raw.githubusercontent.com/johnnyawesome/SierpinskiCarpet/master/SierpinskiCarpet/DemoImages/SierpinskiCarpet.jpg)
 
