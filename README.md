@@ -24,6 +24,24 @@ I also wrote  [this blogpost](https://breaksome.tech/creating-a-fractal-tree-in-
 
 ## Other, Closely related Fractals
 
+The Menger Sponge actually is a three-dimensional version of two very, very famous Fractals:
+
 ### The Cantor Set
 
+Did you know: The [Cantor Set](https://github.com/johnnyawesome/CantorSet) is a One-Dimensional version of the Menger Sponge!
+
+It looks loke this:
+
+![Cantor Set](https://raw.githubusercontent.com/johnnyawesome/CantorSet/master/CantorSet/DemoImages/CantorSet.jpg)
+
+You can find out more about the Cantor Set [here](https://github.com/johnnyawesome/CantorSet)
+
 ### The Sierpinski Carpet
+
+If the Cantor Set is a one-dimensional Menger Sponge, what does a two-dimensional Menger Sponge look like?
+
+Turns out there is another famous Fractal called the Sierpinski Carpet, and it looks like this:
+
+![Sierpinski Carpet](https://raw.githubusercontent.com/johnnyawesome/SierpinskiCarpet/master/SierpinskiCarpet/DemoImages/SierpinskiCarpet.jpg)
+
+If you want to learn more about the Sierpinski Carpet, check out [this link](https://github.com/johnnyawesome/SierpinskiCarpet)
