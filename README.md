@@ -15,7 +15,7 @@ The folder "MengerSponge" contains a version, where you can click the Menger Spo
 
 The folder "MengerSpongeCam" contains another version, using PEasyCam for P5JS.
 
-This one is really cool: You can roitate the whole Fractal with your mouse, as well as zoom into it.
+This one is really cool: You can rotate the whole Fractal with your mouse, as well as zoom into it.
 
 Time to explore infinity!
 
