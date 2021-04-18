@@ -29,7 +29,7 @@ To learn more about the Menger Sponge, check out [this blogpost](https://breakso
 
 ## Other, Closely related Fractals
 
-The Menger Sponge actually is a three-dimensional version of two very, very famous Fractals:
+The Menger Sponge actually is a three-dimensional version of two other very, very famous Fractals:
 
 ### The Cantor Set
 
