@@ -21,3 +21,9 @@ Time to explore infinity!
 
 ## More information
 I also wrote  [this blogpost](https://breaksome.tech/creating-a-fractal-tree-in-p5js/)  about this little project that explains things in depth.
+
+## Other, Closely related Fractals
+
+### The Cantor Set
+
+### The Sierpinski Carpet
