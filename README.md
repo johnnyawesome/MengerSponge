@@ -19,14 +19,6 @@ This one is really cool: You can rotate the whole Fractal with your mouse, as we
 
 Time to explore infinity!
 
-## More information
-
-To learn more about the Menger Sponge, check out [this blogpost](https://breaksome.tech/coding-the-menger-sponge-in-p5js/) where I described in great detail:
-
-- What the Menger Sponge is
-- How it works
-- How you can code it yourself
-
 ## Other, Closely related Fractals
 
 The Menger Sponge actually is a three-dimensional version of two other very, very famous Fractals:
